@@ -73,6 +73,69 @@ const desktopModeProps = {
     "Flex4": {
       "callbacks": {}
     },
+    "Flex11": {
+      "callbacks": {}
+    },
+    "Flex23": {
+      "callbacks": {}
+    },
+    "Flex15": {
+      "callbacks": {}
+    },
+    "Flex36": {
+      "callbacks": {}
+    },
+    "Flex31": {
+      "callbacks": {}
+    },
+    "Flex33": {
+      "callbacks": {}
+    },
+    "Flex34": {
+      "callbacks": {}
+    },
+    "Flex35": {
+      "callbacks": {}
+    },
+    "Flex37": {
+      "callbacks": {}
+    },
+    "Flex38": {
+      "callbacks": {}
+    },
+    "Flex41": {
+      "callbacks": {}
+    },
+    "Flex39": {
+      "callbacks": {}
+    },
+    "Flex42": {
+      "callbacks": {}
+    },
+    "Flex43": {
+      "callbacks": {}
+    },
+    "Flex44": {
+      "callbacks": {}
+    },
+    "Flex45": {
+      "callbacks": {}
+    },
+    "Flex47": {
+      "callbacks": {}
+    },
+    "Flex48": {
+      "callbacks": {}
+    },
+    "Flex49": {
+      "callbacks": {}
+    },
+    "Flex50": {
+      "callbacks": {}
+    },
+    "Flex51": {
+      "callbacks": {}
+    },
     "TextBox1": {
       "custom": {
         "text": "Cart"
@@ -221,6 +284,419 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/616d9a0b651769674022e7ba_home-hero-restaurante-x-template.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox9": {
+      "custom": {
+        "text": "Order from your favorite app today!"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox10": {
+      "custom": {
+        "text": "Postmates"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox12": {
+      "custom": {
+        "text": "Doordash"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox14": {
+      "custom": {
+        "text": "Rappi"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox15": {
+      "custom": {
+        "text": "GRUBHUB"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox16": {
+      "custom": {
+        "text": "Browse our Menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image11": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dcfaa447d37fed264e4ff_menu-breakfasts-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox41": {
+      "custom": {
+        "text": "Explore Menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox42": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox44": {
+      "custom": {
+        "text": "Breakfast"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox45": {
+      "custom": {
+        "text": "Breakfast"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox46": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox47": {
+      "custom": {
+        "text": "Explore Menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image12": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dcfaa447d37fed264e4ff_menu-breakfasts-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox48": {
+      "custom": {
+        "text": "Breakfast"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox49": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox50": {
+      "custom": {
+        "text": "Explore Menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image13": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dcfaa447d37fed264e4ff_menu-breakfasts-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox51": {
+      "custom": {
+        "text": "Breakfast"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox52": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox53": {
+      "custom": {
+        "text": "Explore Menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image14": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dcfaa447d37fed264e4ff_menu-breakfasts-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button7": {
+      "custom": {
+        "text": "Order Online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button8": {
+      "custom": {
+        "text": "Reservate"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image15": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616d9a0bdba0fb13cfd32fc0_about-home-restaurante-x-template-p-1080.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox54": {
+      "custom": {
+        "text": "Come and Visit Us"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox57": {
+      "custom": {
+        "text": "losangeles@restaurantex.com"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox55": {
+      "custom": {
+        "text": "837 W. Marshall Lane Marshalltown, IA 50158, Los Angeles"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox56": {
+      "custom": {
+        "text": "(414) 857 - 0107"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox58": {
+      "custom": {
+        "text": "About Us"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox60": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit enim bibendum sed et aliquet aliquet risus tempor semper odio egestas id pulvinar consectetur elit tortor non hac pellentesque lacus donec accumsan quisque ultricies adipiscing mauris tortor cras est eu accumsan mauris."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox59": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum eget non vivamus volutpat odio cras vestibulum purus aliquam."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button9": {
+      "custom": {
+        "text": "Reservate"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button10": {
+      "custom": {
+        "text": "Order Online"
       },
       "callbacks": {
         "onClick": [
